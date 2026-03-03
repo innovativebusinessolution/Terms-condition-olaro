@@ -1,6 +1,4 @@
-<html>
-<title>Terms & Conditions</title>
-</html>
+
 <style>
 body {
     margin: 0;
