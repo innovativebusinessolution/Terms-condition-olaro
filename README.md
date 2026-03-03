@@ -50,7 +50,7 @@ button:hover {
     .container { padding: 20px; }
 }
 </style>
-</head>
+
 
 <body>
 
@@ -140,4 +140,3 @@ Address: Rajasthan, India</p>
 </footer>
 
 </body>
-</html>
